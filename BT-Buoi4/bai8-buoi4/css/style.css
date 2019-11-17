@@ -1,0 +1,21 @@
+/*pan 1*/
+.bt8-1 .container{
+	background: purple;
+}
+.bt8-1 .header-logo-h3{
+	padding: 30px 48px;
+}
+.bt8-1 .header-menu {
+	padding: 30px 40px;
+}
+.bt8-1 .main{
+	padding: 30px 125px;
+    color: #fff;
+}
+.bt8-1 .footer{
+	padding: 30px 480px;
+}
+.bt8-1 .footer button{
+	padding: 10px;
+	background: orange;
+}

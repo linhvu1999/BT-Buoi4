@@ -1,0 +1,47 @@
+.bt8-2 .row{
+    padding:  35px;
+}
+.bt8-2 .col-md-3 i{
+    color: #ef4641;
+     font-size: 50px;
+}
+.bt8-2 .col-md-3 .card {
+    min-height: 300px;
+    text-align: center;
+    background: #17c2a4;
+    color: #fff;
+
+}
+.bt8-2 .card-body i{
+    font-size: 50px;
+}
+.bt8-2 .card-title{
+    padding: 20px;
+}
+.bt8-2 .part2{
+    background: #17c2a4;
+}
+.bt8-2 .header2 {
+    background: #17c2a4;
+    padding: 30px;
+    text-align: center;
+    color: #fff;
+}
+
+.bt8-2 .title-login::after {
+    margin: 10px auto;
+    content: '';
+    border-top: 3px solid #14a58c;
+    width: 50px;
+    display: block;
+}
+
+.bt8-2 .not-account {
+    margin-top: 10px;
+    display: inline-block;
+    margin: 10px 390px;
+}
+.bt8-2 .row {
+    padding: 35px;
+    margin: 10px 50px;
+}
